@@ -1,0 +1,4 @@
+/.idea
+/config/db.php
+/public/adminer.php
+/vendor
